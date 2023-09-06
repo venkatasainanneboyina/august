@@ -67,7 +67,7 @@ print('7.Write a python program to find sum of integers in the string.')
 string=input('enter a string: ')
 sum=0
 for NV in string:
-    if NV.isdigit():
+    if NV.isdigit():  
         sum+=int(NV)
 print(sum)
 
