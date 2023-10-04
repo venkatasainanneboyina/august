@@ -1,6 +1,6 @@
 # Create an empty dictionary to store employee details
 employee_details = {}
-
+   
 # Function to add an employee
 def add_employee():
     domain = input("Enter the domain: ")
