@@ -1,5 +1,5 @@
 class ATM:
-    # Static variable to store the initial balance
+    
     balance = 10000
 
     def __init__(self, account_number, pin):
